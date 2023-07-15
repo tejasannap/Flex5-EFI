@@ -1,7 +1,7 @@
 # Flex5-OpenCore-EFI
 My EFI folder for my hackintoshed Lenovo Flex 5 ARE05 using OC 0.9.3 and MacOS Ventura
 
-## WARNING: THIS EFI IS NOT BOOT READY, I HAVE REMOVED MY S/N AND SMBIOS SO PLEASE ADD YOUR OWN VALUES
+## WARNING: THIS EFI IS NOT BOOT READY, I HAVE REMOVED MY S/N, ADD YOUR OWN VALUES
 ## Specifications
 
 ```
